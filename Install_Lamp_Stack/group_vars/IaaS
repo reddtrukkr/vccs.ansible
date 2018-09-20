@@ -1,3 +1,4 @@
+---
 # The variables file used to provision DB servers in IaaS and vRA.
 # These don't have to be explicitly imported by vars_files: they are autopopulated.
 
