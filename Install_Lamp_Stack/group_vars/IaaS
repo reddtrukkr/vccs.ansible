@@ -1,1 +1,8 @@
+# The variables file used to provision DB servers in IaaS and vRA.
+# These don't have to be explicitly imported by vars_files: they are autopopulated.
 
+mysqlservice: mysqld
+mysql_port: 3306
+dbuser: foouser
+dbname: foodb
+upassword: Password1
